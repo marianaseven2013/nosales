@@ -1,0 +1,17 @@
+.NextOrgin{
+    position: absolute;
+    top: 100px;
+    color: white;
+    padding: 50px;
+    margin-top:  5rem;
+    width: 25rem;
+    
+    color: rgb(236, 16, 16);
+
+    background-color: aqua;
+}
+
+.descripcion {
+    width: 30rem;
+    padding: 100px;
+}
